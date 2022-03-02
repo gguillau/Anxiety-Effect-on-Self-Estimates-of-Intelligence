@@ -1,5 +1,5 @@
 # Anxiety-Effect-on-SEI
-The purpose of our experiment was to determine if higher levels of state anxiety would lead to lower self-estimates of intelligence among undergraduate students. 
+The purpose of our experiment was to determine if higher levels of state anxiety would lead to lower self-estimates of intelligence among undergraduate students. Undergraduate research project completed at the University at Buffalo.
 
 ### Research Question:
 * Does state anxiety have an effect on self-estimated of intelligence?
